@@ -3,12 +3,12 @@
     width: 100%
 }
 
-.spoiler {
+p {
     color: black; 
     background: black;
 }
 
-.spoiler:hover {
+p:hover {
     color: white;
 }
 
